@@ -1,0 +1,30 @@
+a {
+    text-decoration:none;
+    color: yellow;
+}
+
+h1 {
+/* kommentar i css */
+/* egenskap:värde
+   attribut:värde */
+   color:green;
+   font-size: 9px;
+
+}
+
+/* egenskaper för alla "div" */
+div {
+background-color: red;
+border-style: solid;
+}
+
+.red {
+    background-color: red;
+    width:200px;
+    height:100px;
+}
+.kalle {
+    background-color: green;
+    width:100px;
+    height:50px;
+}
